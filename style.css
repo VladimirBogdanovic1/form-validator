@@ -83,3 +83,7 @@ h2 {
   margin-top: 20px;
   width: 100%;
 }
+
+.submit-btn {
+  color: green;
+}
