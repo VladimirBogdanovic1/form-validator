@@ -1,2 +1,3 @@
-# form-validator
+# Form Validator
+
 Simple JavaScript Form validator
